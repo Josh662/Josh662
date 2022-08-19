@@ -37,4 +37,4 @@ I'm currently studying computer science, an area that I just think is amazing!
   <a href="https://www.linkedin.com/in/joshua-lorenzo-s-b65000142/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/Josh662/Josh662/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/josh662/josh662/blob/output/github-contribution-grid-snake.svg)
