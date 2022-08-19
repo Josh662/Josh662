@@ -4,9 +4,7 @@
 
 I'm currently studying computer science, an area that I just think is amazing!
 
-- 🔭 Some of my skills as a developer include HTML, CSS, JavaScript, Python, NodeJS and ReactJS.
-
-- 🔭 My Skills
+## My Skills
 
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
