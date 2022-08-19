@@ -20,7 +20,7 @@ I'm currently studying computer science, an area that I just think is amazing!
 ## GitHub Stats
 
 <div style="display: flex;">
-  <a href="https://github.com/Josh662">
+  <a href="https://github.com/josh662">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josh662&layout=compact&langs_count=7&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Josh662&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
