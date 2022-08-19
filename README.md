@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 ### My name is Joshua and you're welcome to my Github profile!
 
 
@@ -28,7 +28,7 @@ I'm currently studying computer science, an area that I just think is amazing!
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" width="50" height="50" />
 
-### Contacts
+## Contacts
 
 <div>
   <a href="https://www.instagram.com/joshls32/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
