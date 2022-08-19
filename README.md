@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 <img align="right" style="margin-top:-20px" src="./images/octacat-joshua.png" height="400">
 ### My name is Joshua and you're welcome to my Github profile!
 
 
