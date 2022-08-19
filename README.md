@@ -17,7 +17,7 @@ I'm currently studying computer science, an area that I just think is amazing!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
 </div>
 
-## I am learning
+## I'm Learning...
 
 <div style="display: flex;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" width="50" height="50" />
