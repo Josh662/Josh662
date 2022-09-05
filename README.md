@@ -1,5 +1,5 @@
 # Hi there 👋 <img align="right" style="margin-top:-20px" src="./images/octocat.png" height="400">
-### My name is Joshua and you're welcome to my Github profile!
+### I'm Joshua and you're welcome to my Github profile!
 
 
 I'm currently studying computer science, an area that I just think is amazing!
