@@ -4,6 +4,11 @@
 
 I'm currently studying computer science, an area that I just think is amazing!
 
+## My Resume
+<div style="display: flex;">
+  <abbr title="Resume"><a href="https://www.google.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="50" height="50" /></a></abbr>
+</div>
+
 ## My Skills
 
 <div style="display: flex;">
@@ -17,6 +22,7 @@ I'm currently studying computer science, an area that I just think is amazing!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" width="50" height="50" />
 </div>
 
 ## I'm Learning...
