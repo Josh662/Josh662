@@ -6,7 +6,7 @@ I'm currently studying computer science, an area that I just think is amazing!
 
 ## My Resume
 <div style="display: flex;">
-  <a href="https://www.google.com" target="_blank"><abbr title="Resume"><img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="50" height="50" /></abbr></a>
+  <a href="https://www.google.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/942/942748.png" width="50" height="50" /></a>
 </div>
 
 ## My Skills
