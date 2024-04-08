@@ -4,7 +4,7 @@
 
 I'm currently studying computer science, an area that I just think is amazing!
 
-- 19 years old
+- 20 years old
 - Fullstack developer
 
 ## My Resume
